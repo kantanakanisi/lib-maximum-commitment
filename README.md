@@ -1,1 +1,1 @@
-# greatest common divisor function
+greatest common divisor function
